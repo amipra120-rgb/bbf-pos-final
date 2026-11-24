@@ -1,0 +1,2 @@
+rootProject.name = "BBF_POS"
+include(":app")
